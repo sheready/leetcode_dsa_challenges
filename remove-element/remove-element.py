@@ -10,6 +10,7 @@ class Solution(object):
         k = 0
         
         #iterate through the array
+        #the video that helped me solve this problem https://youtu.be/Pcd1ii9P9ZI
         
         for i in range(len(nums)):
             #find the index of the value that is not equal to val
